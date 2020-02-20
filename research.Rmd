@@ -3,5 +3,4 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-**Selected Works:** \
-Miller, D.B., Bartlett, S., Sartori, M., Breinholt, J.W. and Ogden, T.H. (2018), Anchored phylogenomics of burrowing mayflies (Ephemeroptera) and the evolution of tusks. Syst Entomol, 43: 692-701. [doi:10.1111/syen.12298](https://onlinelibrary.wiley.com/doi/abs/10.1111/syen.12298)
+I aim to, 1) develop a dockerized container for the identification of *Compound Heterozygous* variants, 2) survey the landscape of *Compound Heterozygous* across pediatric cancers and structural birth defect diseases, and 3) evaluate and improve phasing methods for individual patients when parent genome data is not available. 
