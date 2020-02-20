@@ -5,6 +5,4 @@
 
 <img src="images/professional.png" style="width:40%; border:4px solid; margin-right: 20px" align="left">
 
-I am a [Bioinformatics](https://biology.byu.edu/bioinformatics) PhD candidate at Brigham Young University in the [Biology Department](https://biology.byu.edu/). I am currently working on a computational pipeline for the analysis of *Compound Heterozygous* variants in pediatric cancer's and structural birth defects.
-
-My full CV is available *here*
+I am a PhD candidate at Brigham Young University in the [Biology Department](https://biology.byu.edu/). My area of emphasis is [Bioinformatics](https://biology.byu.edu/bioinformatics). I am currently working on a [computational pipeline](https://github.com/dmiller903/GMKF_CH_pipeline) for the analysis of *Compound Heterozygous* variants in pediatric cancers and structural birth defects.
