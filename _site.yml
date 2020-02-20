@@ -16,5 +16,5 @@ navbar:
       href: https://www.linkedin.com/in/dustin-miller-01057140/
 output:
   html_document:
-    theme: paper
-    css: 'styles.css'
+    theme: darkly
+    css: 'site_libs/bootstrap-3.3.5/css/darkly.min.css'
