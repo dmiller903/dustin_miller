@@ -3,8 +3,10 @@ output_dir: "."
 navbar:
   title: "Dustin Miller"
   left:
-    - text: "Research"
+    - text: "Resarch"
       href: research.html
+    - text: "Publications"
+      href: publications.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
