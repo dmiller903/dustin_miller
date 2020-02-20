@@ -1,0 +1,7 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+**Selected Works:** \
+Miller, D.B., Bartlett, S., Sartori, M., Breinholt, J.W. and Ogden, T.H. (2018), Anchored phylogenomics of burrowing mayflies (Ephemeroptera) and the evolution of tusks. Syst Entomol, 43: 692-701. doi:10.1111/syen.12298
