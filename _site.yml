@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Dustin Miller"
   left:
-    - text: "Resarch"
+    - text: "Research"
       href: research.html
     - text: "Publications"
       href: publications.html
