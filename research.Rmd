@@ -3,4 +3,6 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-I aim to, 1) develop a dockerized container for the identification of *Compound Heterozygous* variants, 2) survey the landscape of *Compound Heterozygous* across pediatric cancers and structural birth defect diseases, and 3) evaluate and improve phasing methods for individual patients when parent genome data is not available. 
+### **Research Goals**\
+\
+I aim to, 1) develop a dockerized container for the identification of *Compound Heterozygous* variants, 2) survey the landscape of *Compound Heterozygous* across pediatric cancers and structural birth defect diseases, and 3) evaluate and improve haplotype phasing methods for individual patients when parent genome data is not available. 
